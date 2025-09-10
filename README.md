@@ -49,24 +49,24 @@ Maquinaria de laboratorio y automatización para procesos químicos.
 
 <div align="center">
 
-<!-- Fila 1: 50 / 50 — total 800px, misma altura -->
+<!-- Fila 1: 50 / 50 -->
 <p>
   <img alt="Racha (Streak)"
        src="https://streak-stats.demolab.com?user=triptalabs&theme=tokyonight&hide_border=true"
-        />
+       height="50%" />
   <img alt="Stats generales"
        src="https://github-readme-stats.vercel.app/api?username=triptalabs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
-      />
+       height="49%" />
 </p>
 
-<!-- Fila 2: 75 / 25 — total 800px, misma altura -->
+<!-- Fila 2: 75 / 25 -->
 <p>
   <img alt="Profile Details"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triptalabs&theme=tokyonight"
-       width="550" height="200" />
+       width="69%" />
   <img alt="Lenguajes más usados"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptalabs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-       width="250" height="200" />
+       width="30%" />
 </p>
 
 </div>
