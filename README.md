@@ -4,53 +4,68 @@ El repo debe llamarse EXACTAMENTE "triptalabs" y ser público.
 Ajusta Web/Contacto/LinkedIn si aplica.
 -->
 
-<div align="center">
-<!-- Stack principal (en encabezado) -->
-<br><br>
+  <!-- Stack principal -->
+  <div style="margin-top:4px;">
+    <img src="https://img.shields.io/badge/C-Systems-0e75b6?style=flat&logo=c" />
+    <img src="https://img.shields.io/badge/C%2B%2B-Embedded-0e75b6?style=flat&logo=c%2B%2B" />
+    <img src="https://img.shields.io/badge/ESP--IDF-Firmware-0e75b6?style=flat&logo=espressif" />
+    <img src="https://img.shields.io/badge/FreeRTOS-RTOS-0e75b6?style=flat" />
+    <img src="https://img.shields.io/badge/LVGL-UI-0e75b6?style=flat" />
+    <img src="https://img.shields.io/badge/RS485%2FModbus-Fieldbus-0e75b6?style=flat" />
+    <img src="https://img.shields.io/badge/TypeScript-Frontend-0e75b6?style=flat&logo=typescript" />
+    <img src="https://img.shields.io/badge/React-UI-0e75b6?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/TailwindCSS-Style-0e75b6?style=flat&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/Supabase-DB-0e75b6?style=flat&logo=supabase" />
+    <img src="https://img.shields.io/badge/Python-Scripting-0e75b6?style=flat&logo=python" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-CI-0e75b6?style=flat&logo=githubactions" />
+  </div>
+
+  <h1 style="margin:12px 0 8px 0;">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/flask-conical.svg" width="22" />
+    Felipe — @triptalabs
+  </h1>
+---
+<!-- Header 1x2 en estilo "float": 25% imagen / 75% contenido -->
+<img align="left"
+     alt="Avatar"
+     src="https://raw.githubusercontent.com/triptalabs/triptalabs/main/avatar.png"
+     width="240"
+     style="border-radius:12px; margin-right:16px; margin-bottom:8px;" />
+
+<!-- Contenido (se acomoda a la derecha de la imagen) -->
+<div>
+
+  <p><strong>CEO &amp; Fundador de <strong>Tripta Labs</strong></strong><br/>
+  Maquinaria de laboratorio y automatización para procesos químicos.</p>
 
   <!-- Social proof -->
-<br>
-<img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptalabs&label=Visitas&color=0e75b6&style=flat" />
-<img alt="Seguidores" src="https://img.shields.io/github/followers/triptalabs?style=flat" />
-<img alt="Stars totales" src="https://img.shields.io/github/stars/triptalabs?style=flat&label=Stars" />
+  <p>
+    <img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptalabs&label=Visitas&color=0e75b6&style=flat" />
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/triptalabs?style=flat" />
+    <img alt="Stars totales" src="https://img.shields.io/github/stars/triptalabs?style=flat&label=Stars" />
+  </p>
 
-# <img src="https://img.icons8.com/fluency/48/test-tube.png" width="28"/> Felipe — @triptalabs
-
-
-
-
-**CEO & Fundador de <strong>Tripta Labs</strong>**  
-Maquinaria de laboratorio y automatización para procesos químicos.  
-
-
-<div>
-  <img src="https://img.shields.io/badge/C-Systems-0e75b6?style=flat&logo=c" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Embedded-0e75b6?style=flat&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/ESP--IDF-Firmware-0e75b6?style=flat&logo=espressif" />
-  <img src="https://img.shields.io/badge/FreeRTOS-RTOS-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/LVGL-UI-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/RS485%2FModbus-Fieldbus-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/TypeScript-Frontend-0e75b6?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-UI-0e75b6?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Style-0e75b6?style=flat&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Supabase-DB-0e75b6?style=flat&logo=supabase" />
-  <img src="https://img.shields.io/badge/Python-Scripting-0e75b6?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-0e75b6?style=flat&logo=githubactions" />
-</div>
-<!-- Enlaces rápidos -->
-<br>
-<a href="mailto:contacto@ejemplo.com">
-  <img src="https://img.shields.io/badge/Contacto-0e75b6?style=flat&logo=gmail&logoColor=white" />
-</a> ·
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat&logo=linkedin" />
-</a> <!-- Reemplaza enlaces -->
+  <!-- Enlaces rápidos -->
+  <p>
+    <a href="mailto:contacto@ejemplo.com">
+      <img src="https://img.shields.io/badge/Contacto-0e75b6?style=flat&logo=minutemailer&logoColor=white" />
+    </a> ·
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat&logo=linkedin" />
+    </a>
+  </p>
 
 </div>
+
+<!-- Limpieza del flotado para que lo siguiente no se suba -->
+<br clear="both" />
+
 
 ---
 
-## <img src="https://img.icons8.com/color/24/combo-chart.png" width="20"/> Estadísticas
+---
+
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="20"/> Estadísticas
 
 <div align="center">
 
@@ -79,7 +94,7 @@ Maquinaria de laboratorio y automatización para procesos químicos.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/brick.png" width="20"/> Working on
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/box.svg" width="20"/> Working on
 
 <div align="center">
 
