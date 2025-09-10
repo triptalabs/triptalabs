@@ -7,6 +7,22 @@ Ajusta Web/Contacto/LinkedIn si aplica.
 <div align="center">
 <!-- Stack principal (en encabezado) -->
 <br><br>
+
+  <!-- Social proof -->
+<br>
+<img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptalabs&label=Visitas&color=0e75b6&style=flat" />
+<img alt="Seguidores" src="https://img.shields.io/github/followers/triptalabs?style=flat" />
+<img alt="Stars totales" src="https://img.shields.io/github/stars/triptalabs?style=flat&label=Stars" />
+
+# <img src="https://img.icons8.com/fluency/48/test-tube.png" width="28"/> Felipe — @triptalabs
+
+
+
+
+**CEO & Fundador de <strong>Tripta Labs</strong>**  
+Maquinaria de laboratorio y automatización para procesos químicos.  
+
+
 <div>
   <img src="https://img.shields.io/badge/C-Systems-0e75b6?style=flat&logo=c" />
   <img src="https://img.shields.io/badge/C%2B%2B-Embedded-0e75b6?style=flat&logo=c%2B%2B" />
@@ -21,63 +37,49 @@ Ajusta Web/Contacto/LinkedIn si aplica.
   <img src="https://img.shields.io/badge/Python-Scripting-0e75b6?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-CI-0e75b6?style=flat&logo=githubactions" />
 </div>
-
-# 🧪 Felipe — @triptalabs
-
-**CEO & Fundador de <strong>Tripta Labs</strong>**  
-Maquinaria de laboratorio y automatización para procesos químicos.  
-
-<!-- Social proof -->
-<br>
-<img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptalabs&label=Visitas&color=0e75b6&style=flat" />
-<img alt="Seguidores" src="https://img.shields.io/github/followers/triptalabs?style=flat" />
-<img alt="Stars totales" src="https://img.shields.io/github/stars/triptalabs?style=flat&label=Stars" />
-
 <!-- Enlaces rápidos -->
 <br>
-<a href="mailto:contacto@ejemplo.com">📫 Contacto</a> ·
-<a href="https://www.linkedin.com/">💼 LinkedIn</a> <!-- Reemplaza enlaces -->
-
-
-
-<!-- Versión alternativa con iconos (Devicon) -->
+<a href="mailto:contacto@ejemplo.com">
+  <img src="https://img.shields.io/badge/Contacto-0e75b6?style=flat&logo=gmail&logoColor=white" />
+</a> ·
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat&logo=linkedin" />
+</a> <!-- Reemplaza enlaces -->
 
 </div>
 
 ---
 
-## 📊 Estadísticas
+## <img src="https://img.icons8.com/color/24/combo-chart.png" width="20"/> Estadísticas
 
-<!-- Tarjetas tema tokyonight con bordes redondeados -->
 <div align="center">
 
-  <a href="#">
-    <img alt="Racha (Streak)" height="150"
-      src="https://streak-stats.demolab.com?user=triptalabs&theme=tokyonight&hide_border=true"
-      style="border-radius:12px; border:1px solid rgba(255,255,255,0.12); margin:0 6px;" loading="lazy" />
-  </a>
+<!-- Fila 1: 50 / 50 — total 800px, misma altura -->
+<p>
+  <img alt="Racha (Streak)"
+       src="https://streak-stats.demolab.com?user=triptalabs&theme=tokyonight&hide_border=true"
+       width="400" height="180" />
+  <img alt="Stats generales"
+       src="https://github-readme-stats.vercel.app/api?username=triptalabs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
+       width="400" height="180" />
+</p>
 
-  <a href="#">
-    <img alt="Stats generales" height="150"
-      src="https://github-readme-stats.vercel.app/api?username=triptalabs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
-      style="border-radius:12px; border:1px solid rgba(255,255,255,0.12); margin:0 6px;" loading="lazy" />
-  </a>
-
-  <a href="#">
-    <img alt="Lenguajes más usados" height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptalabs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-      style="border-radius:12px; border:1px solid rgba(255,255,255,0.12); margin:0 6px;" loading="lazy" />
-  </a>
+<!-- Fila 2: 75 / 25 — total 800px, misma altura -->
+<p>
+  <img alt="Profile Details"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triptalabs&theme=tokyonight"
+       width="600" height="180" />
+  <img alt="Lenguajes más usados"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptalabs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+       width="200" height="180" />
+</p>
 
 </div>
 
-<div align="center">
- <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triptalabs&theme=tokyonight" />
-</div>
 
 ---
 
-## 🧱 Working on
+## <img src="https://img.icons8.com/fluency/24/brick.png" width="20"/> Working on
 
 <div align="center">
 
