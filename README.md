@@ -83,6 +83,25 @@ Me interesan las integraciones con n8n, la optimización de procesos y el desarr
       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=PID-simulator&theme=tokyonight&hide_border=true"
       width="49%"/>
 </p>
+<p>
+  <img alt="tripta-heat-pid"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=tripta-heat-pid&theme=tokyonight&hide_border=true"
+       width="49%"/>
+   <img alt="firmware-vacuum-oven"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=PID-simulator&theme=tokyonight&hide_border=true"
+      width="49%"/>
+</p>
+<p>
+  <img alt="tripta-heat-pid"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=tripta-heat-pid&theme=tokyonight&hide_border=true"
+       width="33%"/>
+   <img alt="firmware-vacuum-oven"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=PID-simulator&theme=tokyonight&hide_border=true"
+      width="33%"/>
+    <img alt="tripta-heat-pid"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=tripta-heat-pid&theme=tokyonight&hide_border=true"
+       width="33%"/>
+</p>
  
 
 
