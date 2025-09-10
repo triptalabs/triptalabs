@@ -53,10 +53,10 @@ Maquinaria de laboratorio y automatización para procesos químicos.
 <p>
   <img alt="Racha (Streak)"
        src="https://streak-stats.demolab.com?user=triptalabs&theme=tokyonight&hide_border=true"
-       height="180" />
+        />
   <img alt="Stats generales"
        src="https://github-readme-stats.vercel.app/api?username=triptalabs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
-        height="180" />
+      />
 </p>
 
 <!-- Fila 2: 75 / 25 — total 800px, misma altura -->
