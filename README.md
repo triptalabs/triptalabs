@@ -85,23 +85,24 @@ Me interesan las integraciones con n8n, la optimización de procesos y el desarr
 </p>
 <p>
   <img alt="tripta-heat-pid"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=tripta-heat-pid&theme=tokyonight&hide_border=true"
-       width="49%"/>
+       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=invoice_html_project&theme=tokyonight&hide_border=true"
+       width="33%"/>
    <img alt="firmware-vacuum-oven"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=PID-simulator&theme=tokyonight&hide_border=true"
-      width="49%"/>
+      src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=Molly&theme=tokyonight&hide_border=true"
+      width="33%"/>
+    <img alt="tripta-heat-pid"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=puntual&theme=tokyonight&hide_border=true"
+       width="33%"/>
 </p>
 <p>
   <img alt="tripta-heat-pid"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=tripta-heat-pid&theme=tokyonight&hide_border=true"
-       width="33%"/>
+       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=idMolecule2PNG-streamlit&theme=tokyonight&hide_border=true"
+       width="49%"/>
    <img alt="firmware-vacuum-oven"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=PID-simulator&theme=tokyonight&hide_border=true"
-      width="33%"/>
-    <img alt="tripta-heat-pid"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=tripta-heat-pid&theme=tokyonight&hide_border=true"
-       width="33%"/>
+      src="https://github-readme-stats.vercel.app/api/pin/?username=triptalabs&repo=triptafittings-freecad&theme=tokyonight&hide_border=true"
+      width="49%"/>
 </p>
+
  
 
 
