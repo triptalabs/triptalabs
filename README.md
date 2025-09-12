@@ -38,9 +38,9 @@ Me interesan las integraciones con n8n, la optimización de procesos y el desarr
 <div align="center">
 
 <div>
-<img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptalabs&label=Visitas&color=0e75b6&style=flat" />
-<img alt="Seguidores" src="https://img.shields.io/github/followers/triptalabs?style=flat" />
-<img alt="Stars totales" src="https://img.shields.io/github/stars/triptalabs?style=flat&label=Stars" />
+<img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptamina-labs&label=Visitas&color=0e75b6&style=flat" />
+<img alt="Seguidores" src="https://img.shields.io/github/followers/triptamina-labs?style=flat" />
+<img alt="Stars totales" src="https://img.shields.io/github/stars/triptamina-labs?style=flat&label=Stars" />
 </div>
 
 
@@ -50,20 +50,20 @@ Me interesan las integraciones con n8n, la optimización de procesos y el desarr
 <!-- Fila 1: 50 / 50 -->
 <p>
   <img alt="Racha (Streak)"
-       src="https://streak-stats.demolab.com?user=triptalabs&theme=tokyonight&hide_border=true"
+       src="https://streak-stats.demolab.com?user=triptamina-labs&theme=tokyonight&hide_border=true"
        width="49%" />
   <img alt="Stats generales"
-       src="https://github-readme-stats.vercel.app/api?username=triptalabs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api?username=triptamina-labs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
        width="46.5%" />
 </p>
 
 <!-- Fila 2: 75 / 25 -->
 <p>
   <img alt="Profile Details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triptalabs&theme=tokyonight"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triptamina-labs&theme=tokyonight"
        width="67%" />
   <img alt="Lenguajes más usados"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptalabs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptamina-labs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
        width="30.5%" />
 </p>
 
